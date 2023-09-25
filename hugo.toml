@@ -85,6 +85,15 @@ description = "یک نمونه برای پوسته داکسی"
 time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"
 
+[languages.zh]
+languageName ="中文"
+contentDir = "content/zh"
+# Weight used for sorting.
+weight = 1
+[languages.zh.params]
+title = "Goldydocs"
+description = "Docsy 示例站点"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.parser.attribute]
