@@ -1,36 +1,36 @@
 ---
-title: Overview
-description: Here's where your user finds out if your project is for them.
+title: 概览
+description: 您的用户可以在这里了解您的项目是否适合他们。
 weight: 1
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+这是一个占位页面，将其替换为您自己的内容。
 {{% /pageinfo %}}
 
 
-The Overview is where your users find out about your project. Depending on the size of your docset, you can have a separate overview page (like this one) or put your overview contents in the Documentation landing page (like in the Docsy User Guide).
+概述是您的用户了解您的项目的地方。根据文档集的大小，您可以拥有单独的概述页面（如本页面）或将概述内容放在文档登录页面中（如 Docsy 用户指南中）。
 
-Try answering these questions for your user in this page:
+尝试在此页面中为您的用户回答以下问题：
 
-## What is it?
+## 它是什么？{#what-is-it}
 
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
+介绍您的项目，包括它做什么或让您做什么、为什么要使用它以及它的主要目标（以及它如何实现它）。 这应该与您的自述文件描述类似，但如果您愿意，您可以适当写一些小细节。
 
-## Why do I want it?
+## 为什么需要它？{#why-do-i-want-it}
 
-Help your user know if your project will help them. Useful information can include:
+帮助您的用户知道您的项目是否会对他们有所帮助，有用的信息可以包括：
 
-* **What is it good for?**: What types of problems does your project solve? What are the benefits of using it?
+* **它有什么好处？**：您的项目解决什么类型的问题？ 使用它有什么好处？
 
-* **What is it not good for?**: For example, point out situations that might intuitively seem suited for your project, but aren't for some reason. Also mention known limitations, scaling issues, or anything else that might let your users know if the project is not for them.
+* **它有什么不好？**：例如，指出直观上看起来适合您的项目但由于某种原因不适合的情况。 还要提及已知的限制、扩展问题或任何其他可能让用户知道该项目是否不适合他们的内容。
 
-* **What is it *not yet* good for?**: Highlight any useful features that are coming soon.
+* **它*尚未*有什么用处？**：突出显示即将推出的任何有用功能。
 
-## Where should I go next?
+## 接下来我该去哪里?{#where-should-i-go-next}
 
-Give your users next steps from the Overview. For example:
+为您的用户提供进一步了解产品的指引。 例如：
 
-* [Getting Started](/docs/getting-started/): Get started with $project
-* [Examples](/docs/examples/): Check out some example code!
+* [入门](/zh-cn/docs/getting-started/): $project 入门
+* [示例](/zh-cn/docs/examples/): 展示一些示例！
 

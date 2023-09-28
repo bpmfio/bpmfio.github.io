@@ -1,32 +1,33 @@
 ---
-title: Second blog post
-date: 2018-10-06
+title: 第二篇博文
+date: 2019-10-06
 description: >
   A short lead description about this content page. Text here can also be
   **bold** or _italic_ and can even be split over multiple paragraphs.
+slug: second-blog-post
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
+文本可以是 **粗体**, _斜体_, or ~~删除线~~，[链接](https://github.com) 显示为蓝色，且没有下划线（除非悬停在上面）。
 
-There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
+段落之间应该有空格。 段落之间应该有空格。 段落之间应该有空格。 段落之间应该有空格。
 
-There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
+段落之间应该有空格。 段落之间应该有空格。 段落之间应该有空格。 段落之间应该有空格。
 
-> There should be no margin above this first sentence.
+> 第一句上方不应有空白。
 >
-> Blockquotes should be a lighter gray with a border along the left side in the secondary color.
+> 块引用显示为浅灰色，左侧有辅助颜色的边框。
 >
-> There should be no margin below this final sentence.
+> 最后一句下面不应有空白。
 
-## First Header
+## 第一个标题{#first-header}
 
-This is a normal paragraph following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.  Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.  Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+这是标题后面的正常段落。蒸羊羔儿、蒸熊掌、蒸鹿尾儿、烧花鸭、烧雏鸡、烧子鹅、炉猪、炉鸭、酱鸡、腊肉、松花、小肚儿、晾肉、香肠儿、什锦苏盘儿、熏鸡白肚儿、清蒸八宝猪、江米酿鸭子、罐儿野鸡、罐儿鹌鹑、卤什件儿、卤子鹅、山鸡、兔脯、菜蟒、银鱼、清蒸哈什蚂、烩鸭腰儿、烤鸭条、清拌腰丝儿、黄心管儿、焖白鳝、焖黄鳝、豆鼓鲇鱼、锅烧鲤鱼、烀烂甲鱼、抓炒鲤鱼、抓炒对虾、软炸里脊、软炸鸡、什锦套肠儿、卤煮寒鸦儿、麻酥油卷儿、熘鲜蘑、熘鱼脯、熘鱼肚、熘鱼片儿、醋烟肉片儿、烟三鲜儿、烟鸽子蛋、熘白蘑、熘什件儿、炒银丝儿、烟刀鱼、清蒸火腿、炒白虾、炝青蛤、炒面鱼、炝竹笋、芙蓉燕菜、炒虾仁儿、熘腰花儿、烩海参、炒蹄筋儿、锅烧海参、锅烧白菜、炸木耳、炒肝尖儿、桂花翅子、清蒸翅子、炸飞禽。炸汁儿、炸排骨、清蒸江瑶柱、糖熘芡仁米、拌鸡丝、拌肚丝、什锦豆腐、什锦丁儿······。
 
 
 
 Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
 
-On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.
+在大屏幕上，段落和标题不应占据整个容器宽度，但我们希望表格、代码块和类似内容占据整个容器宽度。
 
 Lorem markdownum tuta hospes stabat; idem saxum facit quaterque repetito
 occumbere, oves novem gestit haerebat frena; qui. Respicit recurvam erat:
@@ -35,29 +36,29 @@ pignora hinc reppulit nos **aut**, aptos, ipsa.
 Meae optatos *passa est* Epiros utiliter *Talibus niveis*, hoc lata, edidit.
 Dixi ad aestum.
 
-## Header 2
+## 标题2{#header-2}
 
-> This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+> 这是标题后的一个块引用。 Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
 
-### Header 3
+### 标题3{#header-3}
 
 ```
-This is a code block following a header.
+这是代码块
 ```
 
-#### Header 4
+#### 标题4{#header-4}
 
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-* This is an unordered list following a header.
+* 无序列表项
+* 无序列表项
+* 无序列表项
 
-##### Header 5
+##### 标题5{#header-5}
 
-1. This is an ordered list following a header.
-2. This is an ordered list following a header.
-3. This is an ordered list following a header.
+1. 有序列表项
+2. 有序列表项
+3. 有序列表项
 
-###### Header 6
+###### 标题6{#header-6}
 
 | What      | Follows         |
 |-----------|-----------------|
@@ -67,35 +68,35 @@ This is a code block following a header.
 
 ----------------
 
-There's a horizontal rule above and below this.
+这一行的上方和下方有一条水平线。
 
 ----------------
 
-Here is an unordered list:
+这是一个无序列表：
 
 * Salt-n-Pepa
 * Bel Biv DeVoe
 * Kid 'N Play
 
-And an ordered list:
+这是一个有序列表：
 
 1. Michael Jackson
 2. Michael Bolton
 3. Michael Bublé
 
-And an unordered task list:
+这是一个无序任务列表：
 
 - [x] Create a sample markdown document
 - [x] Add task lists to it
 - [ ] Take a vacation
 
-And a "mixed" task list:
+这是一个“混合的”任务列表：
 
 - [ ] Steal underpants
 - ?
 - [ ] Profit!
 
-And a nested list:
+这是一个嵌套列表：
 
 * Jackson 5
   * Michael
@@ -109,15 +110,15 @@ And a nested list:
   * Donatello
   * Raphael
 
-Definition lists can be used with Markdown syntax. Definition terms are bold.
+定义列表可以与 Markdown 语法一起使用，定义术语为粗体。
 
-Name
+姓名
 : Godzilla
 
-Born
+出生时间
 : 1952
 
-Birthplace
+出生地
 : Japan
 
 Color
@@ -126,7 +127,7 @@ Color
 
 ----------------
 
-Tables should have bold headings and alternating shaded rows.
+表格有粗体标题和交替的阴影行。
 
 | Artist            | Album           | Year |
 |-------------------|-----------------|------|
@@ -134,7 +135,7 @@ Tables should have bold headings and alternating shaded rows.
 | Prince            | Purple Rain     | 1984 |
 | Beastie Boys      | License to Ill  | 1986 |
 
-If a table is too wide, it should scroll horizontally.
+如果表格太宽，它应该水平滚动。
 
 | Artist            | Album           | Year | Label       | Awards   | Songs     |
 |-------------------|-----------------|------|-------------|----------|-----------|
@@ -144,18 +145,18 @@ If a table is too wide, it should scroll horizontally.
 
 ----------------
 
-Code snippets like `var foo = "bar";` can be shown inline.
+代码片段 `var foo = "bar";` 可以内联显示。
 
-Also, `this should vertically align` ~~`with this`~~ ~~and this~~.
+也可以像这样, `this should vertically align` ~~`with this`~~ ~~and this~~.
 
-Code can also be shown in a block element.
+代码也可以显示在块元素中。
 
 ```
 foo := "bar";
 bar := "foo";
 ```
 
-Code can also use syntax highlighting.
+代码还可以使用语法高亮显示。
 
 ```go
 func main() {
@@ -174,10 +175,10 @@ func main() {
 ```
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+长的单行代码块不应换行。 如果它们太长，它们应该水平滚动。 这一行应该足够长来证明这一点。从前有座山，山上有座庙，庙里有个老和尚，老和尚在给小和尚讲故事，故事讲的是从前有座山，山上有座庙，庙里有个老和尚，老和尚在给小和尚讲故事······
 ```
 
-Inline code inside table cells should still be distinguishable.
+表格单元格内的内联代码仍然应该是可区分的。
 
 | Language    | Code               |
 |-------------|--------------------|
@@ -186,59 +187,59 @@ Inline code inside table cells should still be distinguishable.
 
 ----------------
 
-Small images should be shown at their actual size.
+小图片应以其实际尺寸显示。
 
 ![](https://placekitten.com/g/300/200/)
 
-Large images should always scale down and fit in the content container.
+大图片应缩小并适配内容容器。
 
 ![](https://placekitten.com/g/1200/800/)
 
-## Components
+## 组件{#components}
 
-### Alerts
+### 提示{#alerts}
 
-{{< alert >}}This is an alert.{{< /alert >}}
-{{< alert title="Note:" >}}This is an alert with a title.{{< /alert >}}
-{{< alert type="success" >}}This is a successful alert.{{< /alert >}}
-{{< alert type="warning" >}}This is a warning!{{< /alert >}}
-{{< alert type="warning" title="Warning!" >}}This is a warning with a title!{{< /alert >}}
+{{< alert >}} 这是一个提示。{{< /alert >}}
+{{< alert title="Note:" >}} 这是一个带标题的提示。{{< /alert >}}
+{{< alert type="success" >}} 这是一个“successful”类型的提示。{{< /alert >}}
+{{< alert type="warning" >}} 这是一个“warning”类型的提示！{{< /alert >}}
+{{< alert type="warning" title="Warning!" >}} 这是一个带标题的“warning”类型的提示！{{< /alert >}}
 
 
-## Sizing
+## 调配{#sizing}
 
-Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+在此处添加一些部分以查看目录的外观。Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
 
-### Parameters available
-
-Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-### Using pixels
+### 可用参数{#parameters-available}
 
 Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
 
-### Using rem
+### Using pixels{#using-pixels}
 
 Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
 
-## Memory
+### Using rem{#using-rem}
 
 Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
 
-### RAM to use
+## Memory{#memory}
 
 Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
 
-### More is better
+### RAM to use{#ram-to-use}
 
 Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
 
-### Used RAM
+### More is better{#more-is-better}
+
+Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+
+### Used RAM{#used-ram}
 
 Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
 
 
 
 ```
-This is the final element on the page and there should be no margin below this.
+这是页面上的最后一个元素，下面不应有边距。
 ```

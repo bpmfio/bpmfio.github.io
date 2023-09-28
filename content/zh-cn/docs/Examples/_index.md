@@ -1,13 +1,12 @@
 ---
-title: Examples
+title: 示例
 weight: 3
 date: 2017-01-05
-description: See your project in action!
+description: 展示项目的实际应用！
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+这是一个占位符页面，将其替换为您自己的内容。
 {{% /pageinfo %}}
 
-Do you have any example **applications** or **code** for your users in your repo
-or elsewhere? Link to your examples here.
+如果为您的用户准备了示例**应用程序**或**代码**，请把它们链接到这里。

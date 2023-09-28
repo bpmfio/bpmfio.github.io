@@ -1,79 +1,66 @@
 ---
-title: Contribution Guidelines
+title: 贡献指南
 weight: 10
-description: How to contribute to the docs
+description: 如何为文档做出贡献
 ---
 
 {{% pageinfo %}}
-These basic sample guidelines assume that your Docsy site is deployed using Netlify and your files are stored in GitHub. You can use the guidelines "as is" or adapt them with your own instructions: for example, other deployment options, information about your doc project's file structure, project-specific review guidelines, versioning guidelines, or any other information your users might find useful when updating your site. [Kubeflow](https://github.com/kubeflow/website/blob/master/README.md) has a great example.
 
-Don't forget to link to your own doc repo rather than our example site! Also make sure users can find these guidelines from your doc repo README: either add them there and link to them from this page, add them here and link to them from the README, or include them in both locations.
+这些基本示例假设您的 Docsy 站点是使用 Netlify 部署的，并且您的文件存储在 GitHub 中。您可以“按原样”使用这些指南，也可以根据自己的需要进行调整：例如，其他部署选项、有关文档项目文件结构的信息、特定于项目的审核指南、版本控制指南或您的用户可能认为有用的任何其他信息。 [Kubeflow](https://github.com/kubeflow/website/blob/master/README.md) 有一个很好的例子。
+
+不要忘记链接到您自己的文档仓库而不是我们的示例网站！还要确保用户可以从您的文档仓库的自述文件中找到这些指南：将它们链接到本页面，或者链接到README，或者将它们包含在这两个位置。
+
 {{% /pageinfo %}}
 
-We use [Hugo](https://gohugo.io/) to format and generate our website, the
-[Docsy](https://github.com/google/docsy) theme for styling and site structure,
-and [Netlify](https://www.netlify.com/) to manage the deployment of the site.
-Hugo is an open-source static site generator that provides us with templates,
-content organisation in a standard directory structure, and a website generation
-engine. You write the pages in Markdown (or HTML if you want), and Hugo wraps them up into a website.
+我们使用 [Hugo](https://gohugo.io/) 来格式化和生成我们的网站，
+用 [Docsy](https://github.com/google/docsy) 主题来构建样式和组织网站结构，
+用 [Netlify](https://www.netlify.com/) 来管理站点的部署。
+Hugo是一个开源静态站点生成器，为我们提供模板，
+组织内容的标准目录结构，以及网站生成引擎。你用 Markdown（或者 HTML，如果你愿意的话）编写页面，Hugo 将它们组装到一个网站中。
 
-All submissions, including submissions by project members, require review. We
-use GitHub pull requests for this purpose. Consult
-[GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
-information on using pull requests.
+所有提交的内容，包括项目成员提交的内容，都需要审核。我们通过 GitHub 的 pull requests 机制来实现这一目标。查看
+[GitHub 帮助](https://help.github.com/articles/about-pull-requests/) 了解更多有关 pull requests 的信息。
 
-## Quick start with Netlify
+## Netlify 快速入门{#quick-start-with-netlify}
 
-Here's a quick guide to updating the docs. It assumes you're familiar with the
-GitHub workflow and you're happy to use the automated preview of your doc
-updates:
+这是更新文档的快速指南。它假设您熟悉 GitHub 工作流程，并且您很乐意使用文档的自动预览更新：
 
-1. Fork the [Goldydocs repo](https://github.com/google/docsy-example) on GitHub.
-1. Make your changes and send a pull request (PR).
-1. If you're not yet ready for a review, add "WIP" to the PR name to indicate
-  it's a work in progress. (**Don't** add the Hugo property
-  "draft = true" to the page front matter, because that prevents the
-  auto-deployment of the content preview described in the next point.)
-1. Wait for the automated PR workflow to do some checks. When it's ready,
-  you should see a comment like this: **deploy/netlify — Deploy preview ready!**
-1. Click **Details** to the right of "Deploy preview ready" to see a preview
-  of your updates.
-1. Continue updating your doc and pushing your changes until you're happy with
-  the content.
-1. When you're ready for a review, add a comment to the PR, and remove any
-  "WIP" markers.
+1. 在 GitHub 上 Fork [Goldydocs 仓库](https://github.com/google/docsy-example)。
+1. 进行更改并发送拉取请求 (PR)。
+1. 如果您尚未准备好接受审核，请在 PR 名称中添加“WIP”以表明这是一项正在进行的工作。（**不要**添加 Hugo 属性 “draft = true”到页面前面的内容，因为这会阻止下一点中描述的内容预览的自动部署。）
+1. 等待自动化 PR 工作流程进行一些检查。 准备好后，您应该看到这样的评论：**deploy/netlify — Deploy preview ready!**
+1. 点击“Deploy preview ready”右侧的**Details**，预览您的更新。
+1. 继续更新您的文档并推送更改，直到您满意为止内容。
+1. 当您准备好进行审核时，向 PR 添加评论，并删除任何评论“WIP”标记。
 
-## Updating a single page
+## 更新单个页面{#updating-a-single-page}
 
-If you've just spotted something you'd like to change while using the docs, Docsy has a shortcut for you:
+如果您在使用文档时刚刚发现想要更改的内容，Docsy 为您提供了一个快捷方式：
 
-1. Click **Edit this page** in the top right hand corner of the page.
-1. If you don't already have an up to date fork of the project repo, you are prompted to get one - click **Fork this repository and propose changes** or **Update your Fork** to get an up to date version of the project to edit. The appropriate page in your fork is displayed in edit mode.
-1. Follow the rest of the [Quick start with Netlify](#quick-start-with-netlify) process above to make, preview, and propose your changes.
+1. 单击页面右上角的**编辑此页**。
+1. 如果您还没有项目仓库的最新分支，系统会提示您获取一个提示：单击 **Fork this repository and propose changes** 或 **Update your Fork** 以获取最新版本，分支中的相应页面会以编辑模式显示。
+1. 按照上面的 [Netlify 快速入门](#quick-start-with-netlify) 流程的其余部分进行更改、预览并提出更改建议。
 
-## Previewing your changes locally
+## 在本地预览您的更改{#previewing-your-changes-locally}
 
-If you want to run your own local Hugo server to preview your changes as you work:
+如果您想在的本地运行 Hugo 服务器以预览更改：
 
-1. Follow the instructions in [Getting started](/docs/getting-started) to install Hugo and any other tools you need. You'll need at least **Hugo version 0.45** (we recommend using the most recent available version), and it must be the **extended** version, which supports SCSS.
-1. Fork the [Goldydocs repo](https://github.com/google/docsy-example) repo into your own project, then create a local copy using `git clone`. Don’t forget to use `--recurse-submodules` or you won’t pull down some of the code you need to generate a working site.
+1. 按照[入门](/docs/getting-started)中的说明安装 Hugo 和您需要的任何其他工具。您至少需要 **Hugo 0.45 版本**（我们建议使用最新的可用版本），并且必须是支持 SCSS 的**扩展**版本。
+1. 将 [Goldydocs 仓库](https://github.com/google/docsy-example) 仓库 Fork 到您自己的项目中，然后使用 `git clone` 创建本地副本。不要忘记使用`--recurse-submodules`，否则您将无法提取生成工作站点所需的一些代码。
 
-    ```
+     ````
     git clone --recurse-submodules --depth 1 https://github.com/google/docsy-example.git
-    ```
+     ````
 
-1. Run `hugo server` in the site root directory. By default your site will be available at http://localhost:1313/. Now that you're serving your site locally, Hugo will watch for changes to the content and automatically refresh your site.
-1. Continue with the usual GitHub workflow to edit files, commit them, push the
-  changes up to your fork, and create a pull request.
+1. 在站点根目录下运行 `hugo server`。默认情况下，您的站点将位于 http://localhost:1313/。现在您已在本地提供网站服务，Hugo 将监视内容更改并自动刷新您的网站。
+1. 继续常规的 GitHub 工作流程来编辑文件、提交文件、推送更改您的 Fork，并创建拉取请求。
 
-## Creating an issue
+## 创建 issue{#creating-an-issue}
 
-If you've found a problem in the docs, but you're not sure how to fix it yourself, please create an issue in the [Goldydocs repo](https://github.com/google/docsy-example/issues). You can also create an issue about a specific page by clicking the **Create Issue** button in the top right hand corner of the page.
+如果您在文档中发现问题，但不确定如何自行修复，请在 [Goldydocs 仓库](https://github.com/google/docsy-example/issues) 中创建 issue。您还可以通过单击页面右上角的 **提交文档问题** 按钮来创建有关特定页面的问题。
 
-## Useful resources
+## 有用的资源{#useful-resources}
 
-* [Docsy user guide](https://www.docsy.dev/docs/): All about Docsy, including how it manages navigation, look and feel, and multi-language support.
-* [Hugo documentation](https://gohugo.io/documentation/): Comprehensive reference for Hugo.
-* [Github Hello World!](https://guides.github.com/activities/hello-world/): A basic introduction to GitHub concepts and workflow.
-
-
+* [Docsy 用户指南](https://www.docsy.dev/docs/)：有关 Docsy 的所有内容，包括它如何管理导航、外观、体验以及多语言支持。
+* [Hugo 文档](https://gohugo.io/documentation/)：Hugo 的综合参考。
+* [Github Hello World!](https://guides.github.com/activities/hello-world/)：GitHub 概念和工作流程的基本介绍。

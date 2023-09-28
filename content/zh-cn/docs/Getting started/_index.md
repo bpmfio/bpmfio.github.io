@@ -1,35 +1,35 @@
 ---
-title: Getting Started
-description: What does your user need to know to try your project?
+title: 入门
+description: 您的用户需要了解什么才能尝试您的项目？
 categories: [Examples, Placeholders]
 tags: [test, docs]
 weight: 2
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+这是一个占位页面，将其替换为您自己的内容。
 {{% /pageinfo %}}
 
-Information in this section helps your user try your project themselves.
+本节中的信息可帮助您的用户亲自尝试您的项目。
 
-* What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.
+* 您的用户需要做什么才能开始使用您的项目？这可能包括下载/安装说明，包括任何先决条件或系统要求。
 
-* Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.
+* 介绍性“Hello World”示例（如果适用），更复杂的教程应该位于教程部分。
 
-Consider using the headings below for your getting started page. You can delete any that are not applicable to your project.
+考虑在您的入门页面中使用以下标题，您可以删除任何不适用于您的项目的内容。
 
-## Prerequisites
+## 先决条件{#prerequisites}
 
-Are there any system requirements for using your project? What languages are supported (if any)? Do users need to already have any software or tools installed?
+使用您的项目有任何系统要求吗？ 支持哪些语言（如果有）？ 用户是否需要已经安装任何软件或工具？
 
-## Installation
+## 安装{#installation}
 
-Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?
+您的用户在哪里可以找到您的项目代码？ 他们如何安装它（二进制文件、可安装包、从源代码构建）？ 他们是否可以安装多个选项/版本？他们应该如何选择适合自己的选项/版本？
 
-## Setup
+## 设置{#setup}
 
-Is there any initial setup users need to do after installation to try your project?
+安装后用户需要进行任何初始设置才能尝试您的项目吗？
 
-## Try it out!
+## 试用{#try-it-out}
 
-Can your users test their installation, for example by running a command or deploying a Hello World example?
+您的用户能否测试他们的安装，例如通过运行命令或部署 Hello World 示例？

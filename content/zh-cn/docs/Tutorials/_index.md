@@ -1,13 +1,12 @@
 ---
-title: Tutorials
-description: Show your user how to work through some end to end examples.
+title: 教程
+description: 向您的用户展示如何完成一些步步为营的示例。
 date: 2017-01-04
 weight: 8
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+这是一个占位页面，将其替换为您自己的内容。
 {{% /pageinfo %}}
 
-Tutorials are **complete worked examples** made up of **multiple tasks** that guide the user through a relatively simple but realistic scenario: building an application that uses some of your project’s features, for example. If you have already created some Examples for your project you can base Tutorials on them. This section is **optional**. However, remember that although you may not need this section at first, having tutorials can be useful to help your users engage with your example code, especially if there are aspects that need more explanation than you can easily provide in code comments.
-
+教程是**完整的工作示例**，由**多个任务**组成，指导用户完成一个相对简单但现实的场景：例如，构建一个使用项目的某些功能的应用程序。如果您已经为您的项目创建了一些示例，您可以根据它们创建教程。此部分是**可选**。但是，请记住，虽然您一开始可能不需要本节，但教程对于帮助您的用户使用示例代码很有用，特别是当某些方面需要更多解释而您无法在代码注释中轻松提供时。

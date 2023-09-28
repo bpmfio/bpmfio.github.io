@@ -1,4 +1,4 @@
 ---
-title: Releases
-weight: 20
+title: 版本
+weight: 21
 ---

@@ -1,14 +1,14 @@
 ---
-title: Concepts
+title: 概念
 weight: 4
 description: >
-  What does your user need to understand about your project in order to use it - or potentially contribute to it?
+  您的用户需要了解您的项目的哪些内容才能使用它 - 或者可能对其做出贡献？
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+这是一个占位页面，将其替换为您自己的内容。
 {{% /pageinfo %}}
 
-For many projects, users may not need much information beyond the information in the [Overview](/docs/overview/), so this section is **optional**. However if there are areas where your users will need a more detailed understanding of a given term or feature in order to do anything useful with your project (or to not make mistakes when using it) put that information in this section. For example, you may want to add some conceptual pages if you have a large project with many components and a complex architecture.
+对于许多项目来说，概览中的信息对于用户来说可能已经足够，因此此部分是可选的。但是，如果您的用户在某些领域需要更详细地了解给定术语或功能，以便对您的项目做任何有用的事情（或者在使用项目时不犯错误），请将该信息放在本节中。例如，如果您有一个包含许多组件和复杂架构的大型项目，您可能需要添加一些概念页面。
 
-Remember to focus on what the user needs to know, not just what you think is interesting about your project! If they don’t need to understand your original design decisions to use or contribute to the project, don’t put them in, or include your design docs in your repo and link to them. Similarly, most users will probably need to know more about how features work when in use rather than how they are implemented. Consider a separate architecture page for more detailed implementation and system design information that potential project contributors can consult.
+记住要关注用户需要了解的内容，而不仅仅是您认为项目有趣的内容！如果他们不需要了解您的原始设计决策来使用或为项目做出贡献，请不要将它们放入，或将您的设计文档包含在您的代码仓库中并链接到它们。同样，大多数用户可能需要更多地了解功能在使用时如何工作，而不是它们是如何实现的。考虑使用单独的架构页面展示更详细的实现和系统设计信息，以帮助获取潜在项目贡献者。

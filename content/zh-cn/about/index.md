@@ -1,35 +1,34 @@
 ---
-title: About Goldydocs
-linkTitle: About
+title: 关于 Goldydocs
+linkTitle: 关于
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="About Goldydocs" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="关于 Goldydocs" image_anchor="bottom" height="auto" %}}
 
-A sample site using the Docsy Hugo theme.
+使用 Docsy Hugo 主题的示例站点
 {.mt-5}
 
 {{% /blocks/cover %}}
 
 {{% blocks/lead %}}
 
-Goldydocs is a sample site using the [Docsy](https://github.com/google/docsy)
-Hugo theme that shows what it can do and provides you with a template site
-structure. It’s designed for you to clone and edit as much as you like. See the
-different sections of the documentation and site for more ideas.
+Goldydocs 是一个使用 [Docsy](https://github.com/google/docsy)
+Hugo 主题的示例站点，展示了 Docsy 主题的功能并提供了一个站点结构的模板。
+它专为您设计，您可以复制它，然后将它改造成自己想要的样子。请参阅文档和站点的不同部分以获取更多想法。
 
 {{% /blocks/lead %}}
 
 {{% blocks/section %}}
 
-# This is another section
+# 这是分段{#this-is-another-section}
 {.text-center}
 
 {{% /blocks/section %}}
 
 {{% blocks/section %}}
 
-# This is another section
+# 这是分段{#this-is-another-section-1}
 {.text-center}
 
 {{% /blocks/section %}}

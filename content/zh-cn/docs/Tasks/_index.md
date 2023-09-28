@@ -1,21 +1,21 @@
 ---
-title: Core Tasks
-description: What can your user do with your project?
+title: 任务
+description: 用户可以用您的项目做什么？
 date: 2017-01-05
 weight: 6
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+这是一个占位页面，将其替换为您自己的内容。
 {{% /pageinfo %}}
 
-Think about your project’s features and use cases. Use these to choose your core tasks. Each granular use case (enable x, configure y) should have a corresponding tasks page or tasks page section. Users should be able to quickly refer to your core tasks when they need to find out how to do one specific thing, rather than having to look for the instructions in a bigger tutorial or example. Think of your tasks pages as a cookbook with different procedures your users can combine to create something more substantial.
+考虑您的项目的功能和用例，使用这些来选择您的核心任务，每个用例（启用 x、配置 y）应具有相应的任务页面或任务页面段落。当用户需要了解如何做一件特定的事情时，他们应该能够快速参考您的核心任务，而不必在更大的教程或示例中寻找说明。将您的任务页面视为一本专题手册，其中包含不同的过程，您的用户可以组合起来创建更充实的内容。
 
-You can give each task a page, or you can group related tasks together in a page, such as tasks related to a particular feature. As well as grouping related tasks in single pages, you can also group task pages in nested folders with an index page as an overview, as seen in this example site. Or if you have a small docset like the [Docsy User Guide](https://docsy.dev/docs/) with no Tutorials or Concepts pages, consider adding your feature-specific pages at the top level of your docs rather than in a Tasks section.
+您可以为每个任务提供一个页面，也可以将相关任务分组在一个页面中，例如与特定功能相关的任务。除了将相关任务分组到单个页面中之外，您还可以将任务页面分组到嵌套文件夹中，并以索引页作为概述，如本示例网站所示。或者，如果您有一个小型文档集，例如没有教程或概念页面的 [Docsy User Guide](https://docsy.dev/docs/)，请考虑在文档的顶层而不是任务部分添加特定于功能的页面。
 
-Each task should give the user
+每个任务应该告知用户
 
-* The prerequisites for this task, if any (this can be specified at the top of a multi-task page if they're the same for all the page's tasks. "All these tasks assume that you understand....and that you have already....").
-* What this task accomplishes.
-* Instructions for the task. If it involves editing a file, running a command, or writing code, provide code-formatted example snippets to show the user what to do! If there are multiple steps, provide them as a numbered list.
-* If appropriate, links to related concept, tutorial, or example pages.
+* 此任务的先决条件（如果有）（如果所有页面的任务都相同，则可以在多任务页面的顶部指定。“所有这些任务都假设您了解……并且您已经…… .”）。
+* 这个任务要完成什么。
+* 任务说明。 如果涉及编辑文件、运行命令或编写代码，请提供代码格式的示例片段来向用户展示该怎么做！ 如果有多个步骤，请以编号列表的形式提供它们。
+* 如果可以，链接到相关概念、教程或示例页面。

@@ -1,29 +1,19 @@
 ---
-title: Documentation
-linkTitle: Docs
+title: 文档
+linkTitle: 文档
 menu: {main: {weight: 20}}
 weight: 20
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+这是一个占位页面，将其替换为您自己的内容。
 {{% /pageinfo %}}
 
-This section is where the user documentation for your project lives - all the
-information your users need to understand and successfully use your project.
+此部分是您的项目的用户文档所在的位置 - 您的用户理解并成功使用您的项目所需的所有信息。
 
-For large documentation sets we recommend adding content under the headings in
-this section, though if some or all of them don’t apply to your project feel
-free to remove them or add your own. You can see an example of a smaller Docsy
-documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which
-lives in the [Docsy theme
-repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to
-copy its docs section.
+对于大型文档集，我们建议在本节的标题下添加内容，但如果其中部分或全部内容不适用于您的项目，请随意删除它们或添加您自己的内容。 您可以在 [Docsy User Guide](https://docsy.dev/docs/)中查看较小的 文档站点的示例，如果您想复制其文档部分，该站点位于 [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) 仓库中。
 
-Other content such as marketing material, case studies, and community updates
-should live in the [About](/about/) and [Community](/community/) pages.
+其他内容（例如营销材料、案例研究和社区更新）应位于[关于](/about/)和[社区](/community/)页面中。
 
-Find out how to use the Docsy theme in the [Docsy User
-Guide](https://docsy.dev/docs/). You can learn more about how to organize your
-documentation (and how we organized this site) in [Organizing Your
-Content](https://docsy.dev/docs/best-practices/organizing-content/).
+在 [Docsy User Guide](https://docsy.dev/docs/)中了解如何使用 Docsy 主题。
+您可以在[Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/)中了解有关如何组织内容（以及我们如何组织此网站）的更多信息。

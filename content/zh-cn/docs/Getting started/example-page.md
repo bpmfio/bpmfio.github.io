@@ -1,65 +1,63 @@
 ---
-title: Example Page
+title: 示例页
 date: 2017-01-05
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+  有关此内容页面的简短说明。这里的文本可以是 **粗体** 或 _斜体_，也可以是多个段落。
 categories: [Examples]
 tags: [test, sample, docs]
+slug: example-page
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+这是一个占位页面，将其替换为您自己的内容。
 {{% /pageinfo %}}
 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
+文本可以是 **粗体**, _斜体_, or ~~删除线~~，[链接](https://gohugo.io) 显示为蓝色，且没有下划线（除非悬停在上面）。
 
-There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.
+**段落之间应该有空格**。蒸羊羔儿、蒸熊掌、蒸鹿尾儿、烧花鸭、烧雏鸡、烧子鹅、炉猪、炉鸭、酱鸡、腊肉、松花、小肚儿、晾肉、香肠儿、什锦苏盘儿、熏鸡白肚儿、清蒸八宝猪、江米酿鸭子、罐儿野鸡、罐儿鹌鹑、卤什件儿、卤子鹅、山鸡、兔脯、菜蟒、银鱼、清蒸哈什蚂、烩鸭腰儿、烤鸭条、清拌腰丝儿、黄心管儿、焖白鳝、焖黄鳝、豆鼓鲇鱼、锅烧鲤鱼、烀烂甲鱼、抓炒鲤鱼、抓炒对虾、软炸里脊、软炸鸡、什锦套肠儿、卤煮寒鸦儿、麻酥油卷儿、熘鲜蘑、熘鱼脯、熘鱼肚、熘鱼片儿、醋烟肉片儿、烟三鲜儿、烟鸽子蛋、熘白蘑、熘什件儿、炒银丝儿、烟刀鱼、清蒸火腿、炒白虾、炝青蛤、炒面鱼、炝竹笋、芙蓉燕菜、炒虾仁儿、熘腰花儿、烩海参、炒蹄筋儿、锅烧海参、锅烧白菜、炸木耳、炒肝尖儿、桂花翅子、清蒸翅子、炸飞禽。炸汁儿、炸排骨、清蒸江瑶柱、糖熘芡仁米、拌鸡丝、拌肚丝、什锦豆腐、什锦丁儿······。
 
-90's four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps **kale chips**.
+糟鸭、糟熘鱼片、熘蟹肉、炒蟹肉、烩蟹肉、清拌蟹肉、蒸南瓜、酿倭瓜、炒丝瓜、酿冬瓜.烟鸭掌儿、焖鸭掌儿、焖笋、炝茭白、茄子晒炉肉、鸭羹、蟹肉羹、鸡血汤、三鲜木樨汤、红丸子、白丸子、南煎丸子、四喜丸子、三鲜丸子、氽丸子、鲜虾丸子、鱼脯丸子、饹炸丸子、豆腐丸子、樱桃肉、马牙肉、米粉肉、一品肉、栗子肉、坛子肉、红焖肉、黄焖肉、酱豆腐肉、晒炉肉、炖肉、黏糊肉、烀肉、扣肉、松肉、罐儿肉、烧肉、大肉、烤肉、白肉······。
 
-> There should be no margin above this first sentence.
+> 第一句上方不应有空白。
 >
-> Blockquotes should be a lighter gray with a border along the left side in the secondary color.
+> 块引用显示为浅灰色，左侧有辅助颜色的边框。
 >
-> There should be no margin below this final sentence.
+> 最后一句下面不应有空白。
 
-## First Header 2
+## 第一个2号标题{#first-header-2}
 
-This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier **craft beer**. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven't heard of them copper mug, crucifix green juice vape *single-origin coffee* brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!
+**这是标题后面的正常段落**。红肘子、白肘子、熏肘子、水晶肘子、蜜蜡肘子、锅烧肘子、扒肘条、炖羊肉、酱羊肉、烧羊肉、烤羊肉、清羔羊肉、五香羊肉、氽三样儿、爆三样儿、炸卷果儿、烩散丹、烩酸燕儿、烩银丝儿、烩白杂碎、氽节子、烩节子、炸绣球、三鲜鱼翅、栗子鸡、氽鲤鱼、酱汁鲫鱼、活钻鲤鱼、板鸭、筒子鸡、、烩脐肚、烩南荠、爆肚仁儿、盐水肘花儿、锅烧猪蹄儿、拌稂子、炖吊子、烧肝尖儿、烧肥肠儿、烧心、烧肺、烧紫盖儿、烧连帖、烧宝盖儿、油炸肺、酱瓜丝儿、山鸡丁儿、拌海蜇、龙须菜、炝冬笋、玉兰片、烧鸳鸯、烧鱼头、烧槟子、烧百合、炸豆腐、炸面筋、炸软巾······。
 
-Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.
+吃葡萄不吐葡萄皮儿，不吃葡萄倒吐葡萄皮儿。
 
-On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.
+**在大屏幕上，段落和标题不应占据整个容器宽度，但我们希望表格、代码块和类似内容占据整个容器宽度**。
 
-Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&B. **I love this life we live in**.
+## 第二个2号标题{#second-header-2}
 
+> 这是标题后的一个块引用。扁担长，板凳宽，板凳没有扁担长，扁担没有板凳宽。扁担要绑在板凳上，板凳不让扁担绑在板凳上，扁担偏要扁担绑在板凳上。
 
-## Second Header 2
-
-> This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-### Header 3
+### 标题 3{#header-3}
 
 ```
-This is a code block following a header.
+这是代码块。
 ```
 
-Next level leggings before they sold out, PBR&B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.
+四是四，十是十，十四是十四，四十是四十，谁要把十四说成四十就打谁十四，谁要把四十说成十四就打谁四十，十四四十四十四，私自试一试。
 
-#### Header 4
+#### 标题 4{#header-4}
 
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-* This is an unordered list following a header.
+* 无序列表项
+* 无序列表项
+* 无序列表项
 
-##### Header 5
+##### 标题 5{#header-5}
 
-1. This is an ordered list following a header.
-2. This is an ordered list following a header.
-3. This is an ordered list following a header.
+1. 有序列表项
+2. 有序列表项
+3. 有序列表项
 
-###### Header 6
+###### 标题 6{#header-6}
 
 | What      | Follows         |
 |-----------|-----------------|
@@ -69,35 +67,35 @@ Next level leggings before they sold out, PBR&B church-key shaman echo park. Kal
 
 ----------------
 
-There's a horizontal rule above and below this.
+这一行的上方和下方有一条水平线。
 
 ----------------
 
-Here is an unordered list:
+这是一个无序列表：
 
 * Liverpool F.C.
 * Chelsea F.C.
 * Manchester United F.C.
 
-And an ordered list:
+这是一个有序列表：
 
 1. Michael Brecker
 2. Seamus Blake
 3. Branford Marsalis
 
-And an unordered task list:
+这是一个无序任务列表：
 
 - [x] Create a Hugo theme
 - [x] Add task lists to it
 - [ ] Take a vacation
 
-And a "mixed" task list:
+这是一个“混合的”任务列表：
 
 - [ ] Pack bags
 - ?
 - [ ] Travel!
 
-And a nested list:
+这是一个嵌套列表：
 
 * Jackson 5
   * Michael
@@ -111,24 +109,24 @@ And a nested list:
   * Donatello
   * Raphael
 
-Definition lists can be used with Markdown syntax. Definition headers are bold.
+定义列表可以与 Markdown 语法一起使用，定义术语为粗体。
 
-Name
+姓名
 : Godzilla
 
-Born
+出生时间
 : 1952
 
-Birthplace
+出生地
 : Japan
 
-Color
+颜色
 : Green
 
 
 ----------------
 
-Tables should have bold headings and alternating shaded rows.
+表格的标题显示为粗体，行背景有交替的阴影。
 
 | Artist            | Album           | Year |
 |-------------------|-----------------|------|
@@ -136,7 +134,7 @@ Tables should have bold headings and alternating shaded rows.
 | Prince            | Purple Rain     | 1984 |
 | Beastie Boys      | License to Ill  | 1986 |
 
-If a table is too wide, it should scroll horizontally.
+如果表格太宽，它应该水平滚动。
 
 | Artist            | Album           | Year | Label       | Awards   | Songs     |
 |-------------------|-----------------|------|-------------|----------|-----------|
@@ -146,18 +144,18 @@ If a table is too wide, it should scroll horizontally.
 
 ----------------
 
-Code snippets like `var foo = "bar";` can be shown inline.
+代码片段 `var foo = "bar";` 可以内联显示。
 
-Also, `this should vertically align` ~~`with this`~~ ~~and this~~.
+也可以像这样, `this should vertically align` ~~`with this`~~ ~~and this~~.
 
-Code can also be shown in a block element.
+代码也可以显示在块元素中。
 
 ```
 foo := "bar";
 bar := "foo";
 ```
 
-Code can also use syntax highlighting.
+代码还可以使用语法高亮显示。
 
 ```go
 func main() {
@@ -176,10 +174,10 @@ func main() {
 ```
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+长的单行代码块不应换行，如果它们太长，它们应该水平滚动，这一行应该足够长来证明这一点。从前有座山，山上有座庙，庙里有个老和尚，老和尚在给小和尚讲故事，故事讲的是从前有座山，山上有座庙，庙里有个老和尚，老和尚在给小和尚讲故事······
 ```
 
-Inline code inside table cells should still be distinguishable.
+表格单元格内的内联代码仍然能突出显示。
 
 | Language    | Code               |
 |-------------|--------------------|
@@ -188,53 +186,53 @@ Inline code inside table cells should still be distinguishable.
 
 ----------------
 
-Small images should be shown at their actual size.
+小图片应以其实际尺寸显示。
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
 
-Large images should always scale down and fit in the content container.
+大图片应缩小并适配内容容器。
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
 
 _The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA._
 
 
-## Components
+## 组件{#components}
 
-### Alerts
+### 提示{#alerts}
 
-{{< alert >}}This is an alert.{{< /alert >}}
-{{< alert title="Note" >}}This is an alert with a title.{{< /alert >}}
-{{% alert title="Note" %}}This is an alert with a title and **Markdown**.{{% /alert %}}
-{{< alert color="success" >}}This is a successful alert.{{< /alert >}}
-{{< alert color="warning" >}}This is a warning.{{< /alert >}}
-{{< alert color="warning" title="Warning" >}}This is a warning with a title.{{< /alert >}}
+{{< alert >}}这是一个提示。{{< /alert >}}
+{{< alert title="Note" >}}这是一个带标题的提示。{{< /alert >}}
+{{% alert title="Note" %}}这是一个带标题的提示并混用了**Markdown**语法。{{% /alert %}}
+{{< alert color="success" >}}这是一个“successful”类型的提示。{{< /alert >}}
+{{< alert color="warning" >}}这是一个“warning”类型的提示！{{< /alert >}}
+{{< alert color="warning" title="Warning" >}}这是一个带标题的“warning”类型的提示！{{< /alert >}}
 
 
-## Another Heading
+## 另一个标题{#another-heading}
 
-Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+**在此处添加一些部分以查看目录的外观**。Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
 
-### This Document
+### 这个文档{#this-document}
 
 Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam *eripitur*? Sitim noceat signa *probat quidem*. Sua longis *fugatis* quidem genae.
 
 
-### Pixel Count
+### 像素数{#pixel-count}
 
 Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.
 
-### Contact Info
+### 联系方式{#contact-info}
 
 Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.
 
 
-### External Links
+### 外部链接{#external-links}
 
 Stumptown PBR&B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.
 
 
 
 ```
-This is the final element on the page and there should be no margin below this.
+这是页面上的最后一个元素，下面不应有边距。
 ```
